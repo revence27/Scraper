@@ -1,6 +1,7 @@
 Luganda Bible Scraper
 =====================
 This app scrapes the Luganda Bible available at these two locations:
+
 1.  [Lutherans Online](http://www.lutheransonline.com/servlet/lo_ProcServ/dbpage=cge&gid=01211001361002498027487858&pg=00027000001073059075147237)
 
 2.  [Luganda Ministry](http://www.lugandaministry.org/Bible.html)
