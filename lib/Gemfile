@@ -1,3 +1,3 @@
 source :rubygems
 
-gem 'pagina'
+gem 'pagina', :git => 'git://github.com/revence27/pagina.git'
